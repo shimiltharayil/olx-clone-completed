@@ -8,7 +8,7 @@ function Banner() {
       <div className="bannerChildDiv">
         <div className="menuBar">
           <div className="categoryMenu">
-            <span>ALL CATEGORIES</span>
+            <span>ALL CATEGORIES</span> 
             <Arrow></Arrow> 
           </div>
           <div className="otherQuickOptions">
